@@ -1,0 +1,3 @@
+@media (max-width:600px) {
+    .display-4{max-width: 400px !important;} 
+}
